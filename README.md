@@ -102,7 +102,7 @@ appium driver list --installed # uiautomator2
 appium -v # 2.x.x
 ```
 
-5. APK download. (ToDO)
+5. APK download. (ToDo)
 ```
 mkdir logs
 bash install.sh
