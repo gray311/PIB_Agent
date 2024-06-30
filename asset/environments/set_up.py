@@ -17,7 +17,7 @@ from script.instagram_login import login_instagram
 from script.walmart_init import walmart_init
 
 
-_WORK_PATH = os.environ["BMOCA_HOME"]
+_WORK_PATH = os.environ["PIB_AGENT_HOME"]
 _LOG_PATH = f"{_WORK_PATH}/logs"
 _CONFIG_PATH = f"{_WORK_PATH}/asset/environments/config"
 _SCRIPT_PATH = f"{_WORK_PATH}/asset/environments/script"
